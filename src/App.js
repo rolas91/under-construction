@@ -1,8 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
-import under_construction from './under_construction.svg';
 import './App.css';
-
+import under_construction from './under_construction.svg';
 function App() {
   return (
     <div className="App">
