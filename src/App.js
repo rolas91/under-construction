@@ -25,7 +25,7 @@ function App() {
                 </div> */}
             </div>
             <div className="uc__art">
-                <img src={under_construction} />
+                <img src={under_construction} alt='construction' />
             </div>
         </div>
     </div>
